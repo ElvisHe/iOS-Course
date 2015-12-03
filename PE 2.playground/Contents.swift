@@ -14,7 +14,7 @@ while c < 10 {
     a = b
     b = c
     c = a + b
-    
+    print(b)
     
 }
- print(b)
+
